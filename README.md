@@ -99,4 +99,4 @@ print("Hello world")
 ![Alt text](path/to/img.png)
 ![연습 내용](practice.png)
 ```
-
+![연습 내용](practice.png)
