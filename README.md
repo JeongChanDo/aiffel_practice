@@ -91,3 +91,12 @@ print("Hello world")
 ```
 -줄바꿈을 하기 위해선 문장 마지막 3칸 이상을 띄어써야 함.   
 이렇게
+
+
+### 이미지 삽입하기
+
+```
+![Alt text](path/to/img.png)
+![연습 내용](practice.png)
+```
+
